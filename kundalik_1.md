@@ -2,5 +2,5 @@
 
 2 yozuv
 
-3 yozuv
+3 yozuv emas
 
